@@ -1,0 +1,14 @@
+/* Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.complicado{
+background-color: #121212;
+color: white;
+}
+.m1{
+	background-color: #0014CC;
+	border-radius: 20px;
+}
